@@ -35,3 +35,10 @@ Additional Features: Include more advanced game mechanics and features.
 
 
 #Due to time inconvinience, I was able to make it using only HTML, CSS and JS.
+
+
+
+
+Can play the demo here:
+
+https://tanmayadmuthe.github.io/chess_like_game/
