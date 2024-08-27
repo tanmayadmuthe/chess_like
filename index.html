@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chess-like Game</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="gameContainer">
+      <canvas id="gameCanvas" width="480" height="480"></canvas>
+      <div id="ui">
+        <p id="currentPlayer">Current Player: A</p>
+        <p id="selectedCharacter">Selected: None</p>
+        <div id="controls">
+          <button id="L">L</button>
+          <button id="R">R</button>
+          <button id="F">F</button>
+          <button id="B">B</button>
+          <button id="FL">FL</button>
+          <button id="FR">FR</button>
+          <button id="BL">BL</button>
+          <button id="BR">BR</button>
+          <button id="Restart">Restart</button>
+        </div>
+        <div id="moveHistory">
+          <p>Move History</p>
+          <ul id="historyList"></ul>
+        </div>
+        <p id="winnerMessage"></p>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
