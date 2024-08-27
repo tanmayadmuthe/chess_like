@@ -30,3 +30,8 @@ Future Improvements
 WebSocket Integration: Add support for online multiplayer using WebSocket.
 Enhanced Graphics: Improve the appearance of game pieces and the game board.
 Additional Features: Include more advanced game mechanics and features.
+
+
+
+
+#Due to time inconvinience, I was able to make it using only HTML, CSS and JS.
